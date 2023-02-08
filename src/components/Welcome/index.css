@@ -1,0 +1,27 @@
+.container {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'bree serif';
+  color: #f0bb03;
+  font-size: 80px;
+}
+
+.sub-heading {
+  font-family: 'Bree Serif';
+  color: white;
+  font-size: 40px;
+}
+.color-1 {
+  background-color: white;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+}
